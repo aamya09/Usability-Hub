@@ -1,2 +1,2 @@
-# website
-My first colned website.
+# Website
+My first cloned website.
