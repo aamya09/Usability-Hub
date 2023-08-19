@@ -14,3 +14,4 @@
 <b>Password Strength Meter:</b>JavaScript can analyze the strength of a user's chosen password and provide feedback to help them create a strong and secure password.<br>
 <b>Error Messages:</b>JavaScript can display dynamic error messages next to specific form fields that require correction, making it easier for users to identify and correct their mistakes.<br>
 <b>Enhanced User Experience:</b>JavaScript can add animations, transitions, and other interactive elements to make the signup page more engaging and visually appealing.</p>
+
