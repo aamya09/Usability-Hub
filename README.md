@@ -1,5 +1,5 @@
 <h1>Usability Hub- A Cloned Website</h1>
-<p>UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.Integrated panel allows you to quickly and affordably recruit research participants that precisely match your target audience
+<p>UsabilityHub is a remote user research platform that takes the guesswork out of design decisions by validating them with real users.Integrated panel allows you to quickly and affordably recruit research participants that precisely match your target audience.
 </p>
 <h2>Tech Stack Used:-</h2>
 <p>1- HTML</p>
